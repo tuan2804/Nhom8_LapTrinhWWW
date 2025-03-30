@@ -15,10 +15,10 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
 		DataSourceTransactionManagerAutoConfiguration.class,
 		HibernateJpaAutoConfiguration.class	
 })
-public class DuAnTotNhiepNhom06Application {
+public class Nhom8WWW {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DuAnTotNhiepNhom06Application.class, args);
+		SpringApplication.run(Nhom8WWW.class, args);
 	}
 
 }
